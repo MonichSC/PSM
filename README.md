@@ -4,4 +4,9 @@
 
 ### Lista instytucji
 
+* domy kultury
+* kina
+* teatry
+
+
 ### Lista obszarów objętych naszym systemem
