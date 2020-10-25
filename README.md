@@ -10,3 +10,6 @@
 
 
 ### Lista obszarów objętych naszym systemem
+
+* rezerwacja biletów
+* streaming
