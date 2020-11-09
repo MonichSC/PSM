@@ -7,7 +7,7 @@
 * domy kultury
 * kina
 * teatry
-* bibioteki
+* biblioteki
 
 
 ### Lista obszarów objętych naszym systemem
