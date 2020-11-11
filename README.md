@@ -44,4 +44,4 @@ Prowadzenie konkursów I wernisaży pokonkursowych
 
     Głosowanie na prace
     
-## Jurek -- dopiać wstępnie część technologiczną
+## Jurek -- dopisać wstępnie część technologiczną
