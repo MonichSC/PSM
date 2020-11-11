@@ -42,4 +42,6 @@ Dla bibliotek:
 
 Prowadzenie konkursów I wernisaży pokonkursowych 
 
-    Głosowanie na prace 
+    Głosowanie na prace
+    
+## Jurek -- dopiać wstępnie część technologiczną
