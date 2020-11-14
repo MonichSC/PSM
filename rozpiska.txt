@@ -1,0 +1,25 @@
+1. Cel i przeznaczenie systemu oraz jego główne funkcje
+	System biblioteczny umożliwiający wypożyczanie książek z dostawą lub osobiście 
+2. Architektura systemu
+	Telefony/komputery klientów, serwer chmurowy, aplikacja dla dostawców, aplikacja dla administratorów
+3. Sprzęt
+	Terminale dla dostawców, komputery dla administratorów
+4. Oprogramowanie
+	Serwer stawiany na chmurze, aplikacja mobilna, aplikacja webowa
+5. Zastosowane technologie
+	Protokoły transmisji danych: Chyba standard: LTE w transmisji mobilnej po stosie TCP/IP, u użytkownika wszystko co pozwala komunikacje z internetem.
+	Środowiska programistyczne i języki programowania: python? js? html? c#? do tego losowa chmura - Google Cloud
+	Systemy operacyjne: linux/windows/mac/android/ios
+	Normy i standardy: ?
+6. Skalowalność systemu
+	Chmura = skalowalność, bierzemy ile wlezie
+7. Bezpieczeństwo systemu
+	Jakiś standardzik dla RODO trzeba opisać
+8. Harmonogram prac
+	
+9. Kosztorys
+	Kosztorys "zgrubny", trzeba założyć jakieś dane i zrobić cene
+10. Wady i zalety
+	Coś trzeba wymyślić
+11. Przyszłość systemu
+	
