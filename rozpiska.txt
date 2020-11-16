@@ -12,6 +12,7 @@
 	Systemy operacyjne: linux/windows/mac/android/ios
 	Normy i standardy: ?
 	Technologie, z którymi pracowałem i mają dobre, współczesne standardy + dobrą dostępność specjalistów: Spring Boot
+	Jeśli chodzi o C# to 1) jest zasobożerna, 2) jest natywnie windowsowa a windows to nie jest system serwerowy
 	Baza klasy enterprise (dobre narzędzia do replikacji): Oracle
 	Ja osobiście używam AWS i mam jakąś orientację w ich ofercie
 6. Skalowalność systemu
