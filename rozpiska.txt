@@ -11,6 +11,9 @@
 	Środowiska programistyczne i języki programowania: python? js? html? c#? do tego losowa chmura - Google Cloud
 	Systemy operacyjne: linux/windows/mac/android/ios
 	Normy i standardy: ?
+	Technologie, z którymi pracowałem i mają dobre, współczesne standardy + dobrą dostępność specjalistów: Spring Boot
+	Baza klasy enterprise (dobre narzędzia do replikacji): Oracle
+	Ja osobiście używam AWS i mam jakąś orientację w ich ofercie
 6. Skalowalność systemu
 	Chmura = skalowalność, bierzemy ile wlezie
 7. Bezpieczeństwo systemu
