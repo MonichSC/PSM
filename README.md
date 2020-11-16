@@ -44,4 +44,4 @@ Prowadzenie konkursów I wernisaży pokonkursowych
 
     Głosowanie na prace
     
-## Jurek -- dopisać wstępnie część technologiczną
+## 19.11.2020 (czwartek) 20:00
